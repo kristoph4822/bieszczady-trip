@@ -7,4 +7,5 @@ Program  BieszczadyTrip  ma  na  celu  pomoc  tym  studentom  w  znalezieniuopty
 
 ![image](https://user-images.githubusercontent.com/46055596/89958672-c33d2680-dc3a-11ea-8299-2b0c35b7013c.png)
 
+
 Program implementuje algorytm Dijkstry oraz algorytm Heap'a. Dokładny opis implementacji oraz działania programu znajduje się w specyfikacjach.
