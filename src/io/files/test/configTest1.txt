@@ -1,0 +1,8 @@
+### Miejsca podróży
+Lp. | ID_miejsca | Nazwa miejsca | Opis miejsca |
+1. | A | Koliba Studencka Politechniki Warszawskiej | Baza wypadowa (miejsce rozpoczęcia wędrówki) |
+2. | B | Jawornik | Szczyt (1021) |
+
+Czas przejścia
+Lp. | ID_miejsca_początkowego (S) | ID_miejsca_końcowego (E) | Czas S -> E | Czas E -> S | Jednorazowa opłata za przejście trasą (zł) |
+1. | A | B | 2:00 | 3:00 | -- |

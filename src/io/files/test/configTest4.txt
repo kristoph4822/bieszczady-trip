@@ -1,0 +1,4 @@
+### Miejsca podrózy
+Lp. , ID_miejsca , Nazwa miejsca , Opis miejsca ;
+1. , A , Koliba Studencka , Baza wypadowa ;
+2. , B , Jawornik , Szczyt (1021) ;

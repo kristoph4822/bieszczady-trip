@@ -1,0 +1,9 @@
+### Miejsca podrózy
+Lp. | ID_miejsca | Nazwa miejsca | Opis miejsca |
+1. | A | Koliba Studencka | Baza wypadowa |
+2. | B | Jawornik | Szczyt (1021) |
+
+### Czas przejscia
+Lp. | ID_miejsca_poczatkowego (S) | ID_miejsca_koncowego (E)
+| Czas S -> E | Czas E -> S | XD |
+1. | A | B | 2:00 | 1:00 | 10 |

@@ -1,0 +1,7 @@
+### Miejsca podróży
+Lp. | ID_miejsca | Nazwa miejsca | Opis miejsca |
+1. | A | Koliba Studencka Politechniki Warszawskiej | Baza wypadowa (miejsce rozpoczęcia wędrówki) |
+
+### Czas przejścia
+Lp. | ID_miejsca_początkowego (S) | ID_miejsca_końcowego (E) | Czas S -> E | Czas E -> S | Jednorazowa opłata za przejście trasą (zł) |
+1. | A | B | 2:00 | 3:00 | -- |
